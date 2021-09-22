@@ -1,1 +1,1 @@
-# Java-Yr2-
+# Java-Yr2-information management of mobile store.
